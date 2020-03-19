@@ -9,5 +9,14 @@ namespace ContactManager8971416
 {
     class PersonalContact
     {
+        private int contact; // field
+        public int Pcontact //property
+        {
+            get { return contact; }   // get method
+            set { contact = value; }  // set method
+        }
+        //{} Here i need to class constructor for the class
     }
+
 }
+

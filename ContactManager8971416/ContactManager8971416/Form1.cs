@@ -21,5 +21,25 @@ namespace ContactManager8971416
         {
 
         }
+
+        private void tbPersonalContact_TextChanged(object sender, EventArgs e)
+        {
+            {
+                PersonalContact myObj = new PersonalContact();
+                myObj.Pcontact = 000000;
+                Console.WriteLine(myObj.Pcontact);
+            }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btPcontact_Click(object sender, EventArgs e)
+
+        {
+
+        }
     }
 }

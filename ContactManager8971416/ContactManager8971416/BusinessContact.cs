@@ -9,5 +9,10 @@ namespace ContactManager8971416
 {
     class BusinessContact
     {
+        public int businessContact
+        {
+            get { return businessContact; }   // get method
+            set { businessContact = value; }  // set method
+        }
     }
 }

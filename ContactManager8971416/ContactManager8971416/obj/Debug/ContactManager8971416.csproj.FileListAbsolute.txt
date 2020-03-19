@@ -7,3 +7,12 @@ C:\Users\User\source\repos\ContactManager8971416\ContactManager8971416\obj\Debug
 C:\Users\User\source\repos\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.csproj.GenerateResource.cache
 C:\Users\User\source\repos\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.exe
 C:\Users\User\source\repos\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.pdb
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.csprojAssemblyReference.cache
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.Form1.resources
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.Properties.Resources.resources
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.csproj.GenerateResource.cache
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.exe
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\obj\Debug\ContactManager8971416.pdb
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\bin\Debug\ContactManager8971416.exe.config
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\bin\Debug\ContactManager8971416.exe
+C:\Users\User\source\repos\copy of the CMS190320\ContactManager8971416\ContactManager8971416\bin\Debug\ContactManager8971416.pdb
